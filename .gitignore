@@ -1,0 +1,26 @@
+# Виртуальные окружения
+venv/
+.venv/
+env/
+ENV/
+
+# Байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Логи, временные файлы
+*.log
+*.tmp
+*.swp
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Локальные настройки (если есть)
+.local/
